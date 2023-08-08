@@ -1,6 +1,3 @@
-# MARK KRAUS
-# MRK133
-
 # Cardinal directions.
 .eqv DIR_N 0
 .eqv DIR_E 1
